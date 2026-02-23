@@ -1,6 +1,6 @@
 # Hi there, I'm Aysenur! 👋 
 
-### 📊  Data Analyst | 
+### 📊  Data Analyst
 
 Results-oriented Data Analyst focused on extracting actionable insights from complex datasets. Committed to data-driven storytelling and professional excellence.
 
