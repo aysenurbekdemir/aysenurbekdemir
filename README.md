@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Aysenur! 👋 
 
-<!--
-**aysenurbekdemir/aysenurbekdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊  Data Analyst | 
 
-Here are some ideas to get you started:
+Results-oriented Data Analyst focused on extracting actionable insights from complex datasets. Committed to data-driven storytelling and professional excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Toolbox
+
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL(Data Extraction & Transformation)
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Tools:** Excel (Advanced), Jupyter Notebooks, Git & GitHub
+- **Focus Areas:** Exploratory Data Analysis (EDA), Statistical Modeling, Data Cleaning
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL techniques for complex data querying.
+- Enhancing my storytelling skills with data visualization.
+
+---
+
+## 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/aysenurbekdemir) 
+
+---
