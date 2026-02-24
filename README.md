@@ -1,6 +1,6 @@
 # Hi there, I'm Aysenur! 👋 
 
-### 📊  Data Analyst
+### 📊  Industrial Engineer | Data Analyst
 
 Results-oriented Data Analyst focused on extracting actionable insights from complex datasets. Committed to data-driven storytelling and professional excellence.
 
@@ -22,6 +22,6 @@ Results-oriented Data Analyst focused on extracting actionable insights from com
 ---
 
 ## 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/aysenurbekdemir) 
+- **LinkedIn:** [linkedin.com/in/aysenurbekdemir](https://linkedin.com/in/aysenurbekdemir) 
 
 ---
